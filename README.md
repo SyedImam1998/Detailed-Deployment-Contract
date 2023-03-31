@@ -1,0 +1,1 @@
+Here in this project contract deployment is done more detailed way using the ethers.js library unlike the the traditional hardhat-ethers.
